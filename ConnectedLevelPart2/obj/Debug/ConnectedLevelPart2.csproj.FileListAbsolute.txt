@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\ConnectedLevelPart2\ConnectedLevelPart2\bin\Debug\ConnectedLevelPart2.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ConnectedLevelPart2\ConnectedLevelPart2\bin\Debug\MyDB.mdf
+c:\users\admin\documents\visual studio 2015\Projects\ConnectedLevelPart2\ConnectedLevelPart2\bin\Debug\MyDB_log.ldf
+c:\users\admin\documents\visual studio 2015\Projects\ConnectedLevelPart2\ConnectedLevelPart2\bin\Debug\ConnectedLevelPart2.exe
+c:\users\admin\documents\visual studio 2015\Projects\ConnectedLevelPart2\ConnectedLevelPart2\bin\Debug\ConnectedLevelPart2.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ConnectedLevelPart2\ConnectedLevelPart2\obj\Debug\ConnectedLevelPart2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ConnectedLevelPart2\ConnectedLevelPart2\obj\Debug\ConnectedLevelPart2.exe
+c:\users\admin\documents\visual studio 2015\Projects\ConnectedLevelPart2\ConnectedLevelPart2\obj\Debug\ConnectedLevelPart2.pdb
