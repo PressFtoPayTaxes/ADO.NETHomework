@@ -1,0 +1,9 @@
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelPart1\ConnectedLevelPart1\bin\Debug\MyDB.mdf
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelPart1\ConnectedLevelPart1\bin\Debug\MyDB_log.ldf
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelPart1\ConnectedLevelPart1\bin\Debug\ConnectedLevelPart1.exe.config
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelPart1\ConnectedLevelPart1\bin\Debug\ConnectedLevelPart1.exe
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelPart1\ConnectedLevelPart1\bin\Debug\ConnectedLevelPart1.pdb
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelPart1\ConnectedLevelPart1\obj\Debug\ConnectedLevelPart1.csprojAssemblyReference.cache
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelPart1\ConnectedLevelPart1\obj\Debug\ConnectedLevelPart1.csproj.CoreCompileInputs.cache
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelPart1\ConnectedLevelPart1\obj\Debug\ConnectedLevelPart1.exe
+c:\users\скоропадиг.corp\source\repos\ConnectedLevelPart1\ConnectedLevelPart1\obj\Debug\ConnectedLevelPart1.pdb
