@@ -1,0 +1,9 @@
+c:\users\скоропадиг.corp\source\repos\AutoLevelPart1\AutoLevelPart1\bin\Debug\ShopDB.mdf
+c:\users\скоропадиг.corp\source\repos\AutoLevelPart1\AutoLevelPart1\bin\Debug\ShopDB_log.ldf
+c:\users\скоропадиг.corp\source\repos\AutoLevelPart1\AutoLevelPart1\bin\Debug\AutoLevelPart1.exe.config
+c:\users\скоропадиг.corp\source\repos\AutoLevelPart1\AutoLevelPart1\bin\Debug\AutoLevelPart1.exe
+c:\users\скоропадиг.corp\source\repos\AutoLevelPart1\AutoLevelPart1\bin\Debug\AutoLevelPart1.pdb
+c:\users\скоропадиг.corp\source\repos\AutoLevelPart1\AutoLevelPart1\obj\Debug\AutoLevelPart1.csprojAssemblyReference.cache
+c:\users\скоропадиг.corp\source\repos\AutoLevelPart1\AutoLevelPart1\obj\Debug\AutoLevelPart1.csproj.CoreCompileInputs.cache
+c:\users\скоропадиг.corp\source\repos\AutoLevelPart1\AutoLevelPart1\obj\Debug\AutoLevelPart1.exe
+c:\users\скоропадиг.corp\source\repos\AutoLevelPart1\AutoLevelPart1\obj\Debug\AutoLevelPart1.pdb
