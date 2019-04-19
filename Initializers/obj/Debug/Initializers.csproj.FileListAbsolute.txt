@@ -1,0 +1,16 @@
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\bin\Debug\Initializers.exe.config
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\bin\Debug\Initializers.exe
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\bin\Debug\Initializers.pdb
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\bin\Debug\EntityFramework.dll
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\bin\Debug\EntityFramework.xml
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\obj\Debug\Initializers.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\obj\Debug\Initializers.Form1.resources
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\obj\Debug\Initializers.Properties.Resources.resources
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\obj\Debug\Initializers.csproj.GenerateResource.cache
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\obj\Debug\Initializers.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\obj\Debug\Initializers.csproj.CopyComplete
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\obj\Debug\Initializers.exe
+C:\Users\СкоропадИг.CORP\source\repos\Initializers\Initializers\obj\Debug\Initializers.pdb
