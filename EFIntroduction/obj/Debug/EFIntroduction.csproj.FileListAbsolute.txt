@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\bin\Debug\EFIntroduction.exe.config
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\bin\Debug\EFIntroduction.exe
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\bin\Debug\EFIntroduction.pdb
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\obj\Debug\EFIntroduction.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\obj\Debug\EFIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\obj\Debug\EFIntroduction.exe
+C:\Users\Admin\source\repos\EFIntroduction\EFIntroduction\obj\Debug\EFIntroduction.pdb
