@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\AutoLevelPart2\AutoLevelPart2\bin\Debug\AutoLevelPart2.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\AutoLevelPart2\AutoLevelPart2\bin\Debug\UsersDatabase.mdf
+C:\Users\Admin\documents\visual studio 2015\Projects\AutoLevelPart2\AutoLevelPart2\bin\Debug\UsersDatabase_log.ldf
+C:\Users\Admin\documents\visual studio 2015\Projects\AutoLevelPart2\AutoLevelPart2\bin\Debug\AutoLevelPart2.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\AutoLevelPart2\AutoLevelPart2\bin\Debug\AutoLevelPart2.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\AutoLevelPart2\AutoLevelPart2\obj\Debug\AutoLevelPart2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\AutoLevelPart2\AutoLevelPart2\obj\Debug\AutoLevelPart2.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\AutoLevelPart2\AutoLevelPart2\obj\Debug\AutoLevelPart2.pdb
