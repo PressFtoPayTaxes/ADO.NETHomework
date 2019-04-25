@@ -1,0 +1,12 @@
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\bin\Debug\DapperExtensions.exe.config
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\bin\Debug\DapperExtensions.exe
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\bin\Debug\DapperExtensions.pdb
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\bin\Debug\Dapper.dll
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\bin\Debug\dbup-core.dll
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\bin\Debug\dbup-sqlserver.dll
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\bin\Debug\Dapper.xml
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\obj\Debug\DapperExtensions.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\obj\Debug\DapperExtensions.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\obj\Debug\DapperExtensions.csproj.CopyComplete
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\obj\Debug\DapperExtensions.exe
+C:\Users\СкоропадИг.CORP\source\repos\DapperExtensions\DapperExtensions\obj\Debug\DapperExtensions.pdb
