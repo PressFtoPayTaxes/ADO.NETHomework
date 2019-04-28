@@ -1,0 +1,16 @@
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe.config
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\bin\Debug\FluentAPI.exe
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\bin\Debug\FluentAPI.pdb
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\bin\Debug\EntityFramework.dll
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\bin\Debug\EntityFramework.xml
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.CopyComplete
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.exe
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.pdb
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.InitialMigration.resources
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.csproj.GenerateResource.cache
+C:\Users\СкоропадИг.CORP\source\repos\FluentAPI\FluentAPI\obj\Debug\FluentAPI.Migrations.UpdateBasket.resources
